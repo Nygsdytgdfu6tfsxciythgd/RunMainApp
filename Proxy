@@ -1,0 +1,9 @@
+[
+  Using system;
+  Using proxy;
+]
+
+Open - web.proxy
+[
+  name = ValixProx
+]
